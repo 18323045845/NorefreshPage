@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NorefreshPage:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="NorefreshPage.war">
+      <element id="artifact" artifact-name="NorefreshPage:war exploded" />
+    </root>
+  </artifact>
+</component>
